@@ -1,0 +1,12 @@
+[submodule "css-playground"]
+	path = css-playground
+	url = git@github.com:HoodieYlya13/css-playground.git
+[submodule "clock"]
+	path = clock
+	url = git@github.com:HoodieYlya13/clock.git
+[submodule "to-do-list"]
+	path = to-do-list
+	url = git@github.com:HoodieYlya13/to-do-list.git
+[submodule "guess-number"]
+	path = guess-number
+	url = git@github.com:HoodieYlya13/guess-number.git
