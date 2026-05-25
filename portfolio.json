@@ -58,3 +58,4 @@
   },
   "lessons_learned": "Bypassing modern, heavy JavaScript frameworks for lightweight utility applications reveals the true efficiency of native browser engines. Using CSS variables to handle spatial mathematics and delegating complex 3D transformations to the GPU dramatically reduces battery drain, eliminates frame drops, and minimizes script bundle size to practically zero. Additionally, utilizing Git Submodules allows developers to create a highly organized, decoupled project ecosystem where each individual component remains fully functional, testable, and deployable on its own, avoiding the standard 'dependency hell' of unified monorepos."
 }
+
